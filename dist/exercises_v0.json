@@ -252,7 +252,7 @@
       "Alternate_Hammer_Curl/1.jpg"
     ],
     "id": "Alternate_Hammer_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Alternate Heel Touchers",
@@ -385,7 +385,7 @@
       "Alternating_Deltoid_Raise/1.jpg"
     ],
     "id": "Alternating_Deltoid_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Alternating Floor Press",
@@ -696,7 +696,7 @@
       "Around_The_Worlds/1.jpg"
     ],
     "id": "Around_The_Worlds",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Atlas Stone Trainer",
@@ -2119,7 +2119,7 @@
       "Bent-Arm_Dumbbell_Pullover/1.jpg"
     ],
     "id": "Bent-Arm_Dumbbell_Pullover",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Bent-Knee Hip Raise",
@@ -4657,7 +4657,7 @@
       "Close-Grip_Dumbbell_Press/1.jpg"
     ],
     "id": "Close-Grip_Dumbbell_Press",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Close-Grip EZ-Bar Curl with Band",
@@ -4797,7 +4797,7 @@
       "Close-Grip_Push-Up_off_of_a_Dumbbell/1.jpg"
     ],
     "id": "Close-Grip_Push-Up_off_of_a_Dumbbell",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Close-Grip Standing Barbell Curl",
@@ -4904,7 +4904,7 @@
       "Concentration_Curls/1.jpg"
     ],
     "id": "Concentration_Curls",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Cross-Body Crunch",
@@ -4955,7 +4955,7 @@
       "Cross_Body_Hammer_Curl/1.jpg"
     ],
     "id": "Cross_Body_Hammer_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Cross Over - With Bands",
@@ -5142,7 +5142,7 @@
       "Cuban_Press/1.jpg"
     ],
     "id": "Cuban_Press",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Dancer's Stretch",
@@ -7134,7 +7134,7 @@
       "External_Rotation/1.jpg"
     ],
     "id": "External_Rotation",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "External Rotation with Band",
@@ -8327,7 +8327,7 @@
       "Hammer_Curls/1.jpg"
     ],
     "id": "Hammer_Curls",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Hammer Grip Incline DB Bench Press",
@@ -8357,7 +8357,7 @@
       "Hammer_Grip_Incline_DB_Bench_Press/1.jpg"
     ],
     "id": "Hammer_Grip_Incline_DB_Bench_Press",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Hamstring-SMR",
@@ -9302,7 +9302,7 @@
       "Incline_Hammer_Curls/1.jpg"
     ],
     "id": "Incline_Hammer_Curls",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Incline Inner Biceps Curl",
@@ -9327,7 +9327,7 @@
       "Incline_Inner_Biceps_Curl/1.jpg"
     ],
     "id": "Incline_Inner_Biceps_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Incline Push-Up",
@@ -9644,7 +9644,7 @@
       "Iron_Cross/1.jpg"
     ],
     "id": "Iron_Cross",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Iron Crosses (stretch)",
@@ -12138,7 +12138,7 @@
       "Lying_Rear_Delt_Raise/1.jpg"
     ],
     "id": "Lying_Rear_Delt_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Lying Supine Dumbbell Curl",
@@ -12452,7 +12452,7 @@
       "Middle_Back_Shrug/1.jpg"
     ],
     "id": "Middle_Back_Shrug",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Middle Back Stretch",
@@ -14582,7 +14582,7 @@
       "Plie_Dumbbell_Squat/1.jpg"
     ],
     "id": "Plie_Dumbbell_Squat",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Plyo Kettlebell Pushups",
@@ -14797,7 +14797,7 @@
       "Power_Partials/1.jpg"
     ],
     "id": "Power_Partials",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Power Snatch",
@@ -15866,7 +15866,7 @@
       "Reverse_Flyes/1.jpg"
     ],
     "id": "Reverse_Flyes",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Reverse Flyes With External Rotation",
@@ -15893,7 +15893,7 @@
       "Reverse_Flyes_With_External_Rotation/1.jpg"
     ],
     "id": "Reverse_Flyes_With_External_Rotation",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Reverse Grip Bent-Over Rows",
@@ -16786,7 +16786,7 @@
       "Seated_Bent-Over_Rear_Delt_Raise/1.jpg"
     ],
     "id": "Seated_Bent-Over_Rear_Delt_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Seated Bent-Over Two-Arm Dumbbell Triceps Extension",
@@ -17532,7 +17532,7 @@
       "Seated_Side_Lateral_Raise/1.jpg"
     ],
     "id": "Seated_Side_Lateral_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Seated Triceps Press",
@@ -17556,7 +17556,7 @@
       "Seated_Triceps_Press/1.jpg"
     ],
     "id": "Seated_Triceps_Press",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Seated Two-Arm Palms-Up Low-Pulley Wrist Curl",
@@ -17613,7 +17613,7 @@
       "See-Saw_Press_Alternating_Side_Press/1.jpg"
     ],
     "id": "See-Saw_Press_Alternating_Side_Press",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Shotgun Row",
@@ -17847,7 +17847,7 @@
       "Side_Lateral_Raise/1.jpg"
     ],
     "id": "Side_Lateral_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Side Laterals to Front Raise",
@@ -17875,7 +17875,7 @@
       "Side_Laterals_to_Front_Raise/1.jpg"
     ],
     "id": "Side_Laterals_to_Front_Raise",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Side Leg Raises",
@@ -18325,7 +18325,7 @@
       "Single_Dumbbell_Raise/1.jpg"
     ],
     "id": "Single_Dumbbell_Raise",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Single Leg Butt Kick",
@@ -19499,7 +19499,7 @@
       "Spell_Caster/1.jpg"
     ],
     "id": "Spell_Caster",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Spider Crawl",
@@ -20290,7 +20290,7 @@
       "Standing_Concentration_Curl/1.jpg"
     ],
     "id": "Standing_Concentration_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Standing Dumbbell Calf Raise",
@@ -20613,7 +20613,7 @@
       "Standing_Inner-Biceps_Curl/1.jpg"
     ],
     "id": "Standing_Inner-Biceps_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Standing Lateral Stretch",
@@ -21354,7 +21354,7 @@
       "Straight-Arm_Dumbbell_Pullover/1.jpg"
     ],
     "id": "Straight-Arm_Dumbbell_Pullover",
-    "weightStyle": "single"
+    "weightStyle": "total"
   },
   {
     "name": "Straight-Arm Pulldown",
@@ -21888,7 +21888,7 @@
       "Tate_Press/1.jpg"
     ],
     "id": "Tate_Press",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "The Straddle",
@@ -22690,7 +22690,7 @@
       "Vertical_Swing/1.jpg"
     ],
     "id": "Vertical_Swing",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Walking, Treadmill",
@@ -23457,7 +23457,7 @@
       "Zottman_Curl/1.jpg"
     ],
     "id": "Zottman_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   },
   {
     "name": "Zottman Preacher Curl",
@@ -23485,6 +23485,6 @@
       "Zottman_Preacher_Curl/1.jpg"
     ],
     "id": "Zottman_Preacher_Curl",
-    "weightStyle": "total"
+    "weightStyle": "single"
   }
 ]
